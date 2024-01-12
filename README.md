@@ -1,9 +1,19 @@
-### Hi there 👋
+<h1>Welcome! My Name is Cruz :) <br/><a href="https://github.com/Cal-InfoSec"> Aspiring Security Analyst</a>, <a href="www.linkedin.com/in/cruz-alfaroleal">Cybersecurity Student</a>, <a href="https://cal-infosec.com/">Oppurtunity Seeker</a></h1>
 
-<!--
-**Cal-InfoSec/Cal-InfoSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Cruz Alfaro-Leal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Cruz Alfaro-Leal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[Website]: https://cal-infosec.com/
+[instagram]: https://www.instagram.com/cruizeship/
+[linkedin]: www.linkedin.com/in/cruz-alfaroleal
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->### Hi there 👋
