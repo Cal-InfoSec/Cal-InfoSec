@@ -1,4 +1,4 @@
-<h1>Welcome! My Name is Cruz :) <br/><a href="https://github.com/Cal-InfoSec"> Aspiring Security Analyst</a>, <a href="www.linkedin.com/in/cruz-alfaroleal">Cybersecurity Student</a>, <a href="https://cal-infosec.com/">Oppurtunity Seeker</a></h1>
+<h1>Welcome! My Name is Cruz :) <br/> <a href="www.linkedin.com/in/cruz-alfaroleal">Cybersecurity Student</a><a> and </a> <a href="https://cal-infosec.com/"> Experience Seeker.</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -14,13 +14,10 @@
 [instagram]: https://www.instagram.com/cruizeship/
 [linkedin]: www.linkedin.com/in/cruz-alfaroleal
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->### Hi there 👋
+<h2>Projects in motion 🛠️</h2>
+- 🔭 I’m currently working on:
+  - SOC homelab, Burpsuite, and Keylogger
+- 🌱 I’m currently learning:
+  - Last half of my CompTIA A+, Security +, and Network Foundations
+- 👯 I’m looking to collaborate on:
+  - CTFs and Data Analysis
