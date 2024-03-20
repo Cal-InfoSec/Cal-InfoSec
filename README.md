@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - <b>Azure Sentinel SIEM</b>
+  - <b>[Building a Basic Home Lab Running Active Directory (Oracle VirtualBox)](https://github.com/Cal-InfoSec/SIEM-Azure/tree/main)</b>
   
  <h2>🎯Projects in motion:</h2> <img align="right" height="100" src="https://media.tenor.com/qdlPrHgqkrcAAAAi/sleep-deprived.gif"/>
 
