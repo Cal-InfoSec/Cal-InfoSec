@@ -1,14 +1,22 @@
 <img align="right" height="100" src="https://media.tenor.com/YytI7A-IRcsAAAAi/kirby-dance-kirby.gif"/> <h1>Welcome! My Name is Cruz :) <br/> <a>Cybersecurity Student</a><a> and </a> <a> Experience Seeker.</a></h1>
 
+<h2>🛡️ Certificates:</h2>
+
+- <b> CompTIA A+
+- <b> CompTIA Security+ (In Progress)
+- <b> FEMA National Incident Management System (NIMS): ICS-100
+- <b> Qualys Vulnerability Management 
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - <b>[Building a Basic Home Lab Running Active Directory (Oracle VirtualBox)](https://github.com/Cal-InfoSec/SIEM-Azure/tree/main)</b>
+  - <b>[Building a Basic Home Lab Running Active Directory (In Progress)](https://github.com/Cal-InfoSec/SIEM-Azure/tree/main)</b>
   
  <h2>🎯Projects in motion:</h2> <img align="right" height="100" src="https://media.tenor.com/qdlPrHgqkrcAAAAi/sleep-deprived.gif"/>
 
 - <b>🔭 I’m currently working on:</b>  SOC homelab, Burpsuite, and Keylogger
 
-- <b>🌱 I’m currently learning:</b>  Last half of my CompTIA A+, Security +, and Network Foundations
+- <b>🌱 I’m currently learning:</b>  Security +, Network Foundations, and Ethics in Security
     
 - <b>👯 I’m looking to collaborate on:</b>  CTFs and Data Analysis
 
